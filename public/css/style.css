@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    text-transform: capitalize;
+    text-decoration: underline black;
+}
+.input-area{
+    margin-top: 10%;
+    display: block;
+}
+.input-box{
+    height: 40px;
+    border-radius: 5px;
+}
